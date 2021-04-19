@@ -1,19 +1,16 @@
-# vue-supermall
+# vue-superGo
 
-## Project setup
+## 技术
 ```
-npm install
+1.vue2.0
+2.vue-router
+3.better-scroll
+4.vuex
+5.axios
 ```
 
-### Compiles and hot-reloads for development
+### 后台接口
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
