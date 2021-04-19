@@ -8,9 +8,3 @@
 4.vuex
 5.axios
 ```
-
-### 后台接口
-```
-npm run serve
-```
-
