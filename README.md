@@ -1,7 +1,7 @@
 # vue-superGo
 
 
-## [后台文件]<https://github.com/doubleleee/superGo-server.git>
+## [后台文件](https://github.com/doubleleee/superGo-server.git)
 
 
 
